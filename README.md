@@ -46,3 +46,7 @@ This project simulates a multi-agent AI system designed to automate basic supply
 
 \- Deploy as API using FastAPI
 
+## Demo Output
+
+![Project Output](output.png)
+
